@@ -1,5 +1,5 @@
 # bignum-php
-Steven S. Skiena's bignum.c to PHP.
+Steven S. Skiena's bignum.c in PHP.
 
 Implements large integer arithmetic: addition, subtraction, multiplication, and division.
 
